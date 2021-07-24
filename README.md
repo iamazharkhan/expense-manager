@@ -1,7 +1,5 @@
 # Expense List App
 
-**Link -** https://pleo-meets-arshad.herokuapp.com
-
 ## Setup
 
 1. `npm install`
@@ -9,7 +7,6 @@
 
 To build - `npm run build`.
 
-See [open issues](https://github.com/arshdkhn1/pleo-frontend-challenge/issues) for the warnings that you get in the dev environment.
 
 ## Description
 
@@ -62,7 +59,7 @@ A full-stack javascript web app with following features -
 8. **Keyboard accessibility and semantic markup**
 
    - User can use the keyboard to navigate through the app. Just use `tab` and `shift + tab` and you can do everything on the app.
-   - I have taken care of all the focus related problems in the app, that comes with declarative routing. One example of such problem is sometimes the expected element is not focussed when a new page is loaded. See [#24](https://github.com/arshdkhn1/pleo-frontend-challenge/issues/24).
+   - I have taken care of all the focus related problems in the app, that comes with declarative routing. One example of such problem is sometimes the expected element is not focussed when a new page is loaded.
    - Semantic markup is used.
 
 9. **Typescript**
@@ -74,7 +71,7 @@ A full-stack javascript web app with following features -
     - Single api endpoint.
     - Caching.
     - GraphQL simplifies the data fetching and allows the client to fetch desired data from the endpoint thus eliminating the need of Redux or any other state management library if the state is not too complex.
-    - I have made many redux [apps](https://github.com/search?q=user%3Aarshdkhn1+redux) and I personally don't like the boilerplate it comes with.
+    - I have made many redux apps and I personally don't like the boilerplate it comes with.
 
 11. **Styled Components**
     - Scoped styling.
